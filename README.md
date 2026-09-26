@@ -13,7 +13,7 @@ Building AI-powered digital experiences, modern UI/UX layouts, and impactful bra
 ---
 
 ### 🛠️ Tools & Technologies
-- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Canva
+- **Design Tools:** Adobe Photoshop, Adobe Illustrator, Canva
 - **AI & Tech:** Prompt Engineering, Generative AI, Digital Asset Creation
 
 ---
